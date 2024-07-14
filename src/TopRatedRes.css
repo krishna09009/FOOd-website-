@@ -1,0 +1,16 @@
+.toprated{
+    margin-top: 5%;
+   
+    padding: 0;
+  }
+  button{
+
+    background-color: white;
+    border: none;
+  }
+  button:hover{
+    outline: auto;
+    background-color: #7c8d9b7a;
+    border-radius: 8px;
+
+  }

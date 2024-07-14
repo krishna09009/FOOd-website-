@@ -1,0 +1,31 @@
+.restarent-details{
+    display: flex;
+    flex-direction: column;
+  }
+  .restarentCard > img{
+    border-radius: 10%;
+    width: 100%;
+    overflow: hidden;
+  }
+  .Offer{
+    position: absolute;
+    top: 160px;
+    padding: 20px;
+    color: white;
+    left: 4px;
+  }
+  .restarentCard{
+    position: relative;
+    padding: 20px;
+
+    /* border: 1px solid black; */
+    
+    
+  }
+
+  /* down kodadam alaa */
+  .restarentCard:hover{
+    transform: scale(0.95);
+    transition: linear 0.1s;
+  }
+  

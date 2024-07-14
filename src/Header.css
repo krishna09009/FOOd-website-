@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    border: 1px soild black;
+    align-items: center;
+    background-color: white;
+   
+   z-index: 1;
+  
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  nav > ul{
+    display: flex;
+  }
+  
+  nav > ul > li{  
+    list-style: none;
+    margin: 40px;
+  }
+  
