@@ -10,7 +10,8 @@
   }
   button:hover{
     outline: auto;
-    background-color: #7c8d9b7a;
+    background-color: #9b847c7a;
+    /* color: red; */
     border-radius: 8px;
 
   }

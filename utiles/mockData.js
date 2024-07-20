@@ -17,7 +17,7 @@ export     const resDetails=[
     name:"The Brownie Studio",
     offer:"ITEMS AT ₹199",
     rating:4.6,
-    delivaryTime:"*30-35 min",
+    delivaryTime:"*20-35 min",
     food:"Burgers,Beverages",
     locaton: "Sekaran Mall"
 
@@ -79,24 +79,24 @@ locaton: "Sekaran Mall"
 },
 {
 id:8,
-imgId:"o18xlrtaxapi2bq7rpoz",
-name:"Andhara Gunpower",
+imgId:"68590de82cfdd60b837cca9399e9127b",
+name:"The Brownie Studio",
 offer:"ITEMS AT ₹299",
 rating:4.5,
 delivaryTime:"*30-35 min",
 food:"Burgers,Beverages",
-locaton: "Sekaran Mall"
+locaton: "ECR Mall"
 
 },
 {
     id:9,
-    imgId:"krmrwsq3mooqa16b40ok",
-    name:"Big Dosa",
+    imgId:"RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/250d7054-1254-4158-b1a5-67141ea2d51f_25881.JPG",
+    name:"Sub way",
     offer:"ITEMS AT ₹99",
     rating:4.5,
     delivaryTime:"*30-35 min",
     food:"Burgers,Beverages",
-    locaton: "Sekaran Mall"
+    locaton: "ECR Mall"
     
     }
     
